@@ -3,7 +3,7 @@
 - 🔭 I am a PhD student in Pure Mathematics at Memorial University of Newfoundland.
     My research interests lie broadly in algebra, with particular emphasis on Lie theory, gradings on Lie algebras, algebraic groups, and combinatorial game theory. My recent work includes research on combinatorial game theory and fine gradings on exceptional Lie algebras such as E6.
 I’m currently working on ...
-- 🌱 My background includes several years of teaching mathematics, curriculum development for accessibility-focused education, and a machine learning project on predicting hospital readmissions. Working on applied, data-driven problems is what drew me toward data science and machine learning, and I am especially interested in using these tools to solve meaningful real-world problems....
+- 🌱 My background includes several years of teaching mathematics, curriculum development for accessibility-focused education, and a machine learning project on predicting hospital readmissions. Working on applied, data-driven problems is what drew me toward data science and machine learning.
 
 
 ## Experience
