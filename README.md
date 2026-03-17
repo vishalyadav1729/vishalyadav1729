@@ -54,7 +54,7 @@ I work in **algebra**, especially **Lie theory**, **Lie algebra gradings**, **al
 ## Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/vishal-yadav-08a83773">
+  <a href="https://www.linkedin.com/in/vishal-yadav-08a83773/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://vishalyadav1729.github.io/vishalkyadav1729.github.io/">
