@@ -1,7 +1,7 @@
 ## Hi there, I am Vishal
 
-- 🔭 I am a PhD student in Pure Mathematics at Memorial University of Newfoundland.
-- 🌱 My background includes several years of teaching mathematics, curriculum development for accessibility-focused education, and a machine learning project on predicting hospital readmissions. Working on applied, data-driven problems is what drew me toward data science and machine learning.
+-  I am a PhD student in Pure Mathematics at Memorial University of Newfoundland.
+-  My background includes several years of teaching mathematics, curriculum development for accessibility-focused education, and a machine learning project on predicting hospital readmissions. Working on applied, data-driven problems is what drew me toward data science and machine learning.
 
 
 ## Experience
@@ -33,7 +33,7 @@ I work in **algebra**, especially **Lie theory**, **Lie algebra gradings**, **al
 - *Invertibility in the Misère Multiverse* — accepted in the *Electronic Journal of Combinatorics*.
 - *On the Reductions and Expansions of Misère Games* — in preparation.
 - *Fine Gradings on \(E_6\)* — in preparation.
-- 
+  
 ## Skills &  Technical Tools
 
 <div align="center">
