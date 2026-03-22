@@ -32,7 +32,7 @@ I work in **algebra**, especially **Lie theory**, **Lie algebra gradings**, **al
 ### Papers
 - *Invertibility in the Misère Multiverse* — accepted in the *Electronic Journal of Combinatorics*.
 - *On the Reductions and Expansions of Misère Games* — in preparation.
-- *Fine Gradings on \(E_6\)* — in preparation.
+- *Fine Gradings on E<sub>6<\sub>* — in preparation.
   
 ## Skills &  Technical Tools
 
