@@ -23,11 +23,11 @@
 
 ### Mentoring
 - **Mentor, Erdos Institute**  
-  Mentored a data science team working on sleep staging and forecasting. I supported the team in shaping the project design, modeling approach, and evaluation framework.
+  Mentored a data science team working on sleep staging and forecasting. I supported the team in shaping the project design, modelling approach, and evaluation framework.
 
 ## Research
 
-I work in **algebra**, especially **Lie theory**, **Lie algebra gradings**, **algebraic groups**, and **combinatorial game theory**. My recent research includes work on **misère games**, **Kac’s classification theorem in prime characteristic**, and **fine gradings on** E<sub>6</sub>.
+I work in **algebra**, especially **Gradings on simple Lie algebras**, **algebraic groups**, and **combinatorial game theory**. My recent research includes work on **Misère games**, **Kac’s classification theorem in prime characteristic**, and **Fine gradings on** E<sub>6</sub>.
 
 ### Papers
 - *Invertibility in the Misère Multiverse* — accepted in the *Electronic Journal of Combinatorics*.
