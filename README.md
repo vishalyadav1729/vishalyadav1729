@@ -27,12 +27,12 @@
 
 ## Research
 
-I work in **algebra**, especially **Lie theory**, **Lie algebra gradings**, **algebraic groups**, and **combinatorial game theory**. My recent research includes work on **misère games**, **Kac’s classification theorem in prime characteristic**, and **fine gradings on** \(E_6\).
+I work in **algebra**, especially **Lie theory**, **Lie algebra gradings**, **algebraic groups**, and **combinatorial game theory**. My recent research includes work on **misère games**, **Kac’s classification theorem in prime characteristic**, and **fine gradings on** E<sub>6</sub>.
 
 ### Papers
 - *Invertibility in the Misère Multiverse* — accepted in the *Electronic Journal of Combinatorics*.
 - *On the Reductions and Expansions of Misère Games* — in preparation.
-- *Fine Gradings on E<sub>6<\sub>* — in preparation.
+- *Fine Gradings on E<sub>6</sub>* — in preparation.
   
 ## Skills &  Technical Tools
 
